@@ -1,4 +1,4 @@
-package com.josse.emile.mynews.Model;
+package com.josse.emile.mynews.Model.POJOS;
 
 public class ArticlePojo {
     private String imageUrl;
